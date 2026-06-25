@@ -1,4 +1,4 @@
-# PyConsole
+# PyCSharpIO
 Wrapper for print() and input(), C# style
 
 ## Tools
@@ -12,4 +12,4 @@ Console.WriteLine and ReadLine are basically the same as print() and input()
 
 ## Usage
 
-```import PyConsole as Console```
+```import PyCSharpIO as Console```
