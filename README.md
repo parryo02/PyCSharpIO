@@ -12,4 +12,4 @@ Console.WriteLine and ReadLine are basically the same as print() and input()
 
 ## Usage
 
-```import pycsio as Console```
+```import csharpio as Console```
